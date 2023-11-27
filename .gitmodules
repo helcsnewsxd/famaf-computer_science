@@ -1,0 +1,30 @@
+[submodule "Bases-de-Datos"]
+	path = Bases-de-Datos
+	url = https://github.com/helcsnewsxd/Bases-de-Datos.git
+[submodule "Ingenieria-del-Software-I"]
+	path = Ingenieria-del-Software-I
+	url = https://github.com/helcsnewsxd/Ingenieria-del-Software-I.git
+[submodule "Arquitectura-del-Computador"]
+	path = Arquitectura-del-Computador
+	url = https://github.com/helcsnewsxd/Arquitectura-del-Computador.git
+[submodule "Matematica-Discreta-II"]
+	path = Matematica-Discreta-II
+	url = https://github.com/helcsnewsxd/Matematica-Discreta-II.git
+[submodule "Paradigmas-de-la-Programacion"]
+	path = Paradigmas-de-la-Programacion
+	url = https://github.com/helcsnewsxd/Paradigmas-de-la-Programacion.git
+[submodule "Redes-y-Sistemas-Distribuidos"]
+	path = Redes-y-Sistemas-Distribuidos
+	url = https://github.com/helcsnewsxd/Redes-y-Sistemas-Distribuidos.git
+[submodule "Organizacion-del-Computador"]
+	path = Organizacion-del-Computador
+	url = https://github.com/helcsnewsxd/Organizacion-del-Computador.git
+[submodule "Analisis-Numerico"]
+	path = Analisis-Numerico
+	url = https://github.com/helcsnewsxd/Analisis-Numerico.git
+[submodule "Algoritmos-y-Estructuras-de-Datos-II"]
+	path = Algoritmos-y-Estructuras-de-Datos-II
+	url = https://github.com/helcsnewsxd/Algoritmos-y-Estructuras-de-Datos-II.git
+[submodule "Sistemas-Operativos"]
+	path = Sistemas-Operativos
+	url = https://github.com/helcsnewsxd/Sistemas-Operativos.git
