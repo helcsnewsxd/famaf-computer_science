@@ -28,3 +28,6 @@
 [submodule "Sistemas-Operativos"]
 	path = Sistemas-Operativos
 	url = https://github.com/helcsnewsxd/Sistemas-Operativos.git
+[submodule "Modelos-y-Simulacion"]
+	path = Modelos-y-Simulacion
+	url = https://github.com/helcsnewsxd/famaf-computer_science-models_and_simulation.git
