@@ -31,3 +31,6 @@
 [submodule "Modelos-y-Simulacion"]
 	path = Modelos-y-Simulacion
 	url = https://github.com/helcsnewsxd/famaf-computer_science-models_and_simulation.git
+[submodule "Lenguajes-Formales-y-Computabilidad"]
+	path = Lenguajes-Formales-y-Computabilidad
+	url = https://github.com/helcsnewsxd/famaf-computer_science-formal_languages_and_computability.git
