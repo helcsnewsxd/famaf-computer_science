@@ -34,3 +34,6 @@
 [submodule "41_Modelos_y_Simulacion"]
 	path = 41_Modelos_y_Simulacion
 	url = https://github.com/helcsnewsxd/famaf-computer_science-models_and_simulation
+[submodule "42_Logica"]
+	path = 42_Logica
+	url = https://github.com/helcsnewsxd/famaf-computer_science-logic

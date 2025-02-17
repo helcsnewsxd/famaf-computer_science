@@ -35,6 +35,6 @@ El presente repositorio contiene el material de algunas de las materias realizad
 | 4 | 1 | Lenguajes Formales y Computabilidad | [Enlace](https://github.com/helcsnewsxd/famaf-computer_science-formal_languages_and_computability) |
 | 4 | 1 | Modelos y Simulación | [Enlace](https://github.com/helcsnewsxd/famaf-computer_science-models_and_simulation) |
 | 4 | 2 | Física | |
-| 4 | 2 | Lógica | |
+| 4 | 2 | Lógica | [Enlace](https://github.com/helcsnewsxd/famaf-computer_science-logic) |
 
 </div>
